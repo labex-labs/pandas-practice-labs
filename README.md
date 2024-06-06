@@ -11,7 +11,7 @@ This course contains lots of labs for Pandas, each lab is a small Pandas project
 
 |   Index | Name                                             | Difficulty   | Practice                                                             |
 |---------|--------------------------------------------------|--------------|----------------------------------------------------------------------|
-|      01 | 📖 Credit Card Holder Risk Prediction             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300206'>Start Lab</a> |
+|      01 | 📖 Credit Card Holder Risk Prediction (Lab)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300206'>Start Lab</a> |
 |      02 | 📖 Introduction to Pandas                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65440'>Start Lab</a>  |
 |      03 | 📖 Handling Missing Data                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65449'>Start Lab</a>  |
 |      04 | 📖 Working With Nullable Integers                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/65448'>Start Lab</a>  |
