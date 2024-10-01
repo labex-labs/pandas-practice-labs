@@ -25,11 +25,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                      |
-|---------|---------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                             | Difficulty   | Practice                                                                                                                      |
+|---------|--------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Introduction to Pandas                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-introduction-to-pandas-65440'>Start Lab</a>                        |
 |      02 | 📖 Handling Missing Data                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-handling-missing-data-65449'>Start Lab</a>                         |
-|      03 | 📖 Working With Nullable Integers                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-nullable-integers-65448'>Start Lab</a>                |
+|      03 | 📖 Working with Nullable Integers                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-nullable-integers-65448'>Start Lab</a>                |
 |      04 | 📖 Pandas DataFrame Expanding Method              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-pandas-dataframe-expanding-method-68618'>Start Lab</a>             |
 |      05 | 📖 Pandas DataFrame Groupby Method                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-pandas-dataframe-groupby-method-68630'>Start Lab</a>               |
 |      06 | 📖 Using Sparse Structures in Pandas              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-using-sparse-structures-in-pandas-65454'>Start Lab</a>             |
@@ -41,9 +41,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      12 | 📖 Pandas DataFrame Rank Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-pandas-dataframe-rank-method-68709'>Start Lab</a>                  |
 |      13 | 📖 Pandas DataFrame Astype Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-pandas-dataframe-astype-method-68587'>Start Lab</a>                |
 |      14 | 📖 Pandas DataFrame Apply Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-apply-method-68582'>Start Lab</a>                 |
-|      15 | 📖 Data Reshaping With Pandas                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-data-reshaping-with-pandas-65452'>Start Lab</a>                    |
+|      15 | 📖 Data Reshaping with Pandas                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-data-reshaping-with-pandas-65452'>Start Lab</a>                    |
 |      16 | 📖 Pandas Copy-On-Write Implementation Guide      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-copy-on-write-implementation-guide-65442'>Start Lab</a>     |
-|      17 | 📖 Working With Time Deltas                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-time-deltas-65456'>Start Lab</a>                      |
+|      17 | 📖 Working with Time Deltas                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-time-deltas-65456'>Start Lab</a>                      |
 |      18 | 📖 Pandas DataFrame Combine_first Method          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-combine-first-method-68594'>Start Lab</a>         |
 |      19 | 📖 Pandas DataFrame Dropna Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-dropna-method-68614'>Start Lab</a>                |
 |      20 | 📖 Pandas DataFrame Drop Duplicates Method        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-drop-duplicates-method-68611'>Start Lab</a>       |
@@ -55,7 +55,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      26 | 📖 Pandas DataFrame Query Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-query-method-68705'>Start Lab</a>                 |
 |      27 | 📖 Pandas DataFrame Copy Method                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-copy-method-68598'>Start Lab</a>                  |
 |      28 | 📖 Pandas DataFrame Eq Method                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-eq-method-68616'>Start Lab</a>                    |
-|      29 | 📖 Working With Nullable Boolean Data             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-nullable-boolean-data-65441'>Start Lab</a>            |
+|      29 | 📖 Working with Nullable Boolean Data             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-nullable-boolean-data-65441'>Start Lab</a>            |
 |      30 | 📖 Pandas Series Agg Method                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-series-agg-method-68725'>Start Lab</a>                      |
 |      31 | 📖 Pandas Basics: DataFrame Memory and Operations | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-basics-dataframe-memory-and-operations-65446'>Start Lab</a> |
 |      32 | 📖 Pandas DataFrame Items Method                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-items-method-68642'>Start Lab</a>                 |
@@ -63,7 +63,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      34 | 📖 Pandas DataFrame Memory Usage Method           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-memory-usage-method-68664'>Start Lab</a>          |
 |      35 | 📖 Pandas Series Aggregate Method                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-series-aggregate-method-68727'>Start Lab</a>                |
 |      36 | 📖 Pandas DataFrame Itertuples Method             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-itertuples-method-68644'>Start Lab</a>            |
-|      37 | 📖 Working With Data Structures in Pandas         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-data-structures-in-pandas-65443'>Start Lab</a>        |
+|      37 | 📖 Working with Data Structures in Pandas         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-working-with-data-structures-in-pandas-65443'>Start Lab</a>        |
 |      38 | 📖 Pandas DataFrame Align Function                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-align-function-68579'>Start Lab</a>               |
 |      39 | 📖 Pandas DataFrame Boxplot Method                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/pandas-pandas-dataframe-boxplot-method-68592'>Start Lab</a>               |
 |      40 | 📖 Pandas DataFrame Corrwith Method               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-pandas-dataframe-corrwith-method-68600'>Start Lab</a>              |
